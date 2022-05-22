@@ -9,7 +9,6 @@ import (
 func main() {
 
 	// base.Base1()
-
 	// intf.Inft()
 	// go goroutine.SayHi()
 	// goroutine.Say("notgo")
